@@ -1,12 +1,6 @@
 # nodejs-crash-course
 reference code for NodeJS crash course on my YT channel
 
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
-
 💻 USEFUL PLAYLISTS:
 
 👊 HTML5
